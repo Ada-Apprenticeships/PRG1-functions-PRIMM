@@ -60,7 +60,3 @@ python activity-1-temperature-converter/temperature_converter.py
 
 If `python` is not recognised, use `python3` instead.
 
-## Reference
-
-`reference/` holds supporting material, including the worked names from the
-function naming exercise. Do not open that one until after the class discussion.
