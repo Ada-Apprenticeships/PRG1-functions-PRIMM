@@ -4,6 +4,7 @@ def calculate_total(price, tax_rate=0.20, discount=0):
     total = subtotal + tax
     return total
 
+
 # Test cases
 print(f"£{calculate_total(100):.2f}")
 print(f"£{calculate_total(100, 0.1):.2f}")
